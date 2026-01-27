@@ -4,7 +4,7 @@
 - 💻 Open source contributor
 - 🛠️ I enjoy working close to the system: editors, tooling, and low-level details
 - 🕸️ Also enjoy working with Backend technologies like Go, Docker, etc
-- 💁 Want to become System's Architect
+- 💁 Want to become System Architect
 - 🌱 Currently learning and building in public
 
 ### Tech I Use
