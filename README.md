@@ -1,10 +1,10 @@
-## Hi, 👋 I am Harsh Kapse From India
+## Hi, 👋 I am Harsh Kapse, A Engineering Student From India
 
 - 🎓 Engineering student
 - 💻 Open source contributor
 - 🛠️ I enjoy working close to the system: editors, tooling, and low-level details
 - 🕸️ Also enjoy working with Backend technologies like Go, Docker, etc
-- 💁 Want to become System Architect
+- 💁 Aspiring System Architect
 - 🌱 Currently learning and building in public
 ### Tech I Use
 - Languages: C, C++, Go, TS
