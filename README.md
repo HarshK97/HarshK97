@@ -7,7 +7,7 @@
 - 💁 Aspiring System Architect
 - 🌱 Currently learning and building in public
 ### Tech I Use
-- Languages: C, C++, Go, TS
+- Languages: C, C++, Go, TS, Python, Lua
 - Tools: Git, Linux, Neovim, Docker, Tmux
 ### Find me
 - Email: harshkapse.dev@gmail.com
