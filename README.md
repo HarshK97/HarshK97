@@ -6,11 +6,9 @@
 - 🕸️ Also enjoy working with Backend technologies like Go, Docker, etc
 - 💁 Want to become System Architect
 - 🌱 Currently learning and building in public
-
 ### Tech I Use
 - Languages: C, C++, Go, TS
 - Tools: Git, Linux, Neovim, Docker, Tmux
-
 ### Find me
 - Email: harshkapse.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/harshkapse97/
