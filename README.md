@@ -1,4 +1,4 @@
-## Hi, 👋 I am Harsh Kapse, A Engineering Student From India
+## Hi, 👋 I am Harsh Kapse, An Engineering Student From India
 
 - 🎓 Engineering student
 - 💻 Open source contributor
