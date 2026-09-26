@@ -1,14 +1,9 @@
-## Hi, 👋 I am Harsh Kapse, A Tech Enthusiast From India
+# Harsh Kapse
 
-- 🎓 Engineering student
-- 💻 Open source contributor
-- 🛠️ I enjoy working close to the system: editors, tooling, and low-level details
-- 🕸️ Also enjoy working with Backend technologies like Go, Docker, etc
-- 💁 Aspiring System Architect
-- 🌱 Currently learning and building in public
-### Tech I Use
-- Languages: C, C++, Go, TS, Python, Lua
-- Tools: Git, Linux, Neovim, Docker, Tmux
-### Find me
-- Email: harshkapse.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/harshkapse97/
+I love working on developer tools, compilers, and systems software in Go, C, and Lua.
+
+- **Diffmantic**: Structural AST diff engine using Tree-sitter, GumTree, and custom C FFI.
+- **Diffmantic.nvim**: Neovim plugin for structural AST diffing.
+- **Interests**: Compilers, editor internals, tree differencing algorithms, backend technologies and low-level tooling.
+
+[Website](https://harshkapse.dev) · [Twitter/X](https://x.com/HarshK54294) · [LinkedIn](https://www.linkedin.com/in/harshkapse97/)
